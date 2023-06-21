@@ -12,7 +12,7 @@ class kxndemir:
 def  __social__(self):
  self.gtb = "https://github.com/kxndemir"
  self.dsc = "kxndemir"
- self.tlg = "https://t.me/kxndemir"
+ self.ig = "https://instagram.com/kxndemir_"
   
  ┌──(kxndemir@root)-[~/]
  └─$
